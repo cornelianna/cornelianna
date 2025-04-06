@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96B2D2FF&height=120&section=header" alt="header"/> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=4000&pause=1000&color=96B2D2&width=435&lines=Hi%2C+my+name+is+Anna+Cornelia!;Applied+Computer+Technology)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&duration=4000&pause=1000&color=96B2D2&width=470&lines=Hi%2C+my+name+is+Anna+Cornelia+Slettemoen!;Specialized+in+Human-Computer+Interaction" alt="Typing SVG" /></a>
+
 <div>
-    <img src="./assets/about_anna.gif" alt="About Me Terminal GIF"/>
+    <img src="./anna_about.gif" alt="About Me Terminal GIF"/>
 </div>
 
 ---
