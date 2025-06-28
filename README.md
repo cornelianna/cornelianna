@@ -10,7 +10,7 @@
 
 #### 🫧⋆｡˚ About me
 
-I'm about to finish my Bachelor's degree in **Applied Computer Technology at OsloMet** (graduating june 2025).  
+I recently completed my Bachelor’s degree in Applied Computer Technology at OsloMet.
 I enjoy building **user-centered**, **accessible**, and **well-structured** web solutions - always with a creative and problem-solving mindset. I love working across the stack and exploring tools that improve both design and logic.
 
 I'm currently working on this page and will add more projects soon 🌱
